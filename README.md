@@ -6,4 +6,4 @@ på samme kode. Det kan også være en versjonskontroll, i form av at man
 laster opp filene underveis i arbeidet, og oppdaterer de etterhvert.
 Det legger også merke til konflikter dersom disse oppstår.
 
-Dette er skrevet fra branchfolder
+Dette er skrevet fra ubuntu
